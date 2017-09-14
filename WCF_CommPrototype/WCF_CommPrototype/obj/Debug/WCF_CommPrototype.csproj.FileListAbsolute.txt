@@ -1,0 +1,42 @@
+C:\su\CSE681\code\WCF_CommPrototype\WCF_CommPrototype\obj\Debug\ResolveAssemblyReference.cache
+C:\su\CSE681\code\WCF_CommPrototype\WCF_CommPrototype\bin\Debug\WCF_CommPrototype.exe
+C:\su\CSE681\code\WCF_CommPrototype\WCF_CommPrototype\bin\Debug\WCF_CommPrototype.pdb
+C:\su\CSE681\code\WCF_CommPrototype\WCF_CommPrototype\obj\Debug\WCF_CommPrototype.exe
+C:\su\CSE681\code\WCF_CommPrototype\WCF_CommPrototype\obj\Debug\WCF_CommPrototype.pdb
+C:\SU\CSE775\CODE\WCF_MessagePassing\WCF_CommPrototype\obj\Debug\WCF_CommPrototype.exe
+C:\SU\CSE775\CODE\WCF_MessagePassing\WCF_CommPrototype\obj\Debug\WCF_CommPrototype.pdb
+C:\SU\CSE775\CODE\WCF_MessagePassing\WCF_CommPrototype\bin\Debug\WCF_CommPrototype.exe
+C:\SU\CSE775\CODE\WCF_MessagePassing\WCF_CommPrototype\bin\Debug\WCF_CommPrototype.pdb
+C:\SU\CSE775\CODE\WCF_MessagePassing\WCF_CommPrototype\obj\Debug\ResolveAssemblyReference.cache
+C:\su\CSE775\CODE\WCF_Fawcett_Examples\WCF_WsHttpMessagePassing\WCF_CommPrototype\obj\Debug\WCF_CommPrototype.exe
+C:\su\CSE775\CODE\WCF_Fawcett_Examples\WCF_WsHttpMessagePassing\WCF_CommPrototype\obj\Debug\WCF_CommPrototype.pdb
+C:\su\CSE775\CODE\WCF_Fawcett_Examples\WCF_WsHttpMessagePassing\WCF_CommPrototype\obj\Debug\ResolveAssemblyReference.cache
+C:\su\CSE775\CODE\WCF_Fawcett_Examples\WCF_WsHttpMessagePassing\WCF_CommPrototype\bin\Debug\WCF_CommPrototype.exe
+C:\su\CSE775\CODE\WCF_Fawcett_Examples\WCF_WsHttpMessagePassing\WCF_CommPrototype\bin\Debug\WCF_CommPrototype.pdb
+C:\su\CSE775\CODE\WCF_Fawcett_Examples\WCF_WSHttpMessagePassing\WCF_WSHttpCommPrototype\bin\Debug\WCF_CommPrototype.exe
+C:\su\CSE775\CODE\WCF_Fawcett_Examples\WCF_WSHttpMessagePassing\WCF_WSHttpCommPrototype\bin\Debug\WCF_CommPrototype.pdb
+C:\su\CSE775\CODE\WCF_Fawcett_Examples\WCF_WSHttpMessagePassing\WCF_WSHttpCommPrototype\obj\Debug\ResolveAssemblyReference.cache
+C:\su\CSE775\CODE\WCF_Fawcett_Examples\WCF_WSHttpMessagePassing\WCF_WSHttpCommPrototype\obj\Debug\WCF_CommPrototype.exe
+C:\su\CSE775\CODE\WCF_Fawcett_Examples\WCF_WSHttpMessagePassing\WCF_WSHttpCommPrototype\obj\Debug\WCF_CommPrototype.pdb
+C:\su\CSE775\CODE\WCF_Fawcett_Examples\WCF_MessagePassingComm\WCF_CommPrototype\obj\Debug\WCF_CommPrototype.exe
+C:\su\CSE775\CODE\WCF_Fawcett_Examples\WCF_MessagePassingComm\WCF_CommPrototype\obj\Debug\WCF_CommPrototype.pdb
+C:\su\CSE775\CODE\WCF_Fawcett_Examples\WCF_MessagePassingComm\WCF_CommPrototype\bin\Debug\WCF_CommPrototype.exe
+C:\su\CSE775\CODE\WCF_Fawcett_Examples\WCF_MessagePassingComm\WCF_CommPrototype\bin\Debug\WCF_CommPrototype.pdb
+C:\su\CSE775\CODE\WCF_Fawcett_Examples\WCF_MessagePassingComm\WCF_CommPrototype\obj\Debug\ResolveAssemblyReference.cache
+C:\su\CoreTechnologies\SocketsAndRemoting\code\WCF_Fawcett_Examples\WCF_MessagePassingComm\WCF_CommPrototype\obj\Debug\WCF_CommPrototype.exe
+C:\su\CoreTechnologies\SocketsAndRemoting\code\WCF_Fawcett_Examples\WCF_MessagePassingComm\WCF_CommPrototype\obj\Debug\WCF_CommPrototype.pdb
+C:\su\CoreTechnologies\SocketsAndRemoting\code\WCF_Fawcett_Examples\WCF_MessagePassingComm\WCF_CommPrototype\bin\Debug\WCF_CommPrototype.exe
+C:\su\CoreTechnologies\SocketsAndRemoting\code\WCF_Fawcett_Examples\WCF_MessagePassingComm\WCF_CommPrototype\bin\Debug\WCF_CommPrototype.pdb
+C:\su\CoreTechnologies\SocketsAndRemoting\code\WCF_Fawcett_Examples\WCF_MessagePassingComm\WCF_CommPrototype\obj\Debug\ResolveAssemblyReference.cache
+D:\Syracuse\Fall 2016\SMA\Project # 3\WCF_CommPrototype\WCF_CommPrototype\obj\Debug\WCF_CommPrototype.exe
+D:\Syracuse\Fall 2016\SMA\Project # 3\WCF_CommPrototype\WCF_CommPrototype\obj\Debug\WCF_CommPrototype.pdb
+D:\Syracuse\Fall 2016\SMA\Project # 3\WCF_CommPrototype\WCF_CommPrototype\bin\Debug\WCF_CommPrototype.exe
+D:\Syracuse\Fall 2016\SMA\Project # 3\WCF_CommPrototype\WCF_CommPrototype\bin\Debug\WCF_CommPrototype.pdb
+D:\Syracuse\Fall 2016\SMA\Project # 3\WCF_CommPrototype\WCF_CommPrototype\obj\Debug\WCF_CommPrototype.csprojResolveAssemblyReference.cache
+F:\SMA resources\Project 3\WCF_CommPrototype\WCF_CommPrototype\obj\Debug\WCF_CommPrototype.exe
+F:\SMA resources\Project 3\WCF_CommPrototype\WCF_CommPrototype\obj\Debug\WCF_CommPrototype.pdb
+F:\SMA resources\Project 3\WCF_CommPrototype\WCF_CommPrototype\bin\Debug\WCF_CommPrototype.exe
+F:\SMA resources\Project 3\WCF_CommPrototype\WCF_CommPrototype\bin\Debug\WCF_CommPrototype.pdb
+F:\SMA resources\Project 3\WCF_CommPrototype\WCF_CommPrototype\obj\Debug\WCF_CommPrototype.csprojResolveAssemblyReference.cache
+F:\SMA resources\Savior\Project5\WCF_CommPrototype\WCF_CommPrototype\obj\Debug\WCF_CommPrototype.exe
+F:\SMA resources\Savior\Project5\WCF_CommPrototype\WCF_CommPrototype\obj\Debug\WCF_CommPrototype.pdb

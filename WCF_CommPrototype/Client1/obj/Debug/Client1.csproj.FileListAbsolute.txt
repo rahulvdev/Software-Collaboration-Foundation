@@ -1,0 +1,32 @@
+C:\su\CSE775\CODE\WCF_Fawcett_Examples\WCF_WSHttpMessagePassing\Client\bin\Debug\Client.exe
+C:\su\CSE775\CODE\WCF_Fawcett_Examples\WCF_WSHttpMessagePassing\Client\bin\Debug\Client.pdb
+C:\su\CSE775\CODE\WCF_Fawcett_Examples\WCF_WSHttpMessagePassing\Client\obj\Debug\ResolveAssemblyReference.cache
+C:\su\CSE775\CODE\WCF_Fawcett_Examples\WCF_WSHttpMessagePassing\Client\obj\Debug\Client.exe
+C:\su\CSE775\CODE\WCF_Fawcett_Examples\WCF_WSHttpMessagePassing\Client\obj\Debug\Client.pdb
+C:\su\CSE775\CODE\WCF_Fawcett_Examples\WCF_WSHttpMessagePassing\Client1\bin\Debug\Client.exe
+C:\su\CSE775\CODE\WCF_Fawcett_Examples\WCF_WSHttpMessagePassing\Client1\bin\Debug\Client.pdb
+C:\su\CSE775\CODE\WCF_Fawcett_Examples\WCF_WSHttpMessagePassing\Client1\obj\Debug\ResolveAssemblyReference.cache
+C:\su\CSE775\CODE\WCF_Fawcett_Examples\WCF_WSHttpMessagePassing\Client1\obj\Debug\Client.exe
+C:\su\CSE775\CODE\WCF_Fawcett_Examples\WCF_WSHttpMessagePassing\Client1\obj\Debug\Client.pdb
+C:\su\CSE775\CODE\WCF_Fawcett_Examples\WCF_MessagePassingComm\Client1\obj\Debug\Client.exe
+C:\su\CSE775\CODE\WCF_Fawcett_Examples\WCF_MessagePassingComm\Client1\obj\Debug\Client.pdb
+C:\su\CSE775\CODE\WCF_Fawcett_Examples\WCF_MessagePassingComm\Client1\bin\Debug\Client.exe
+C:\su\CSE775\CODE\WCF_Fawcett_Examples\WCF_MessagePassingComm\Client1\bin\Debug\Client.pdb
+C:\su\CSE775\CODE\WCF_Fawcett_Examples\WCF_MessagePassingComm\Client1\obj\Debug\ResolveAssemblyReference.cache
+C:\su\CoreTechnologies\SocketsAndRemoting\code\WCF_Fawcett_Examples\WCF_MessagePassingComm\Client1\obj\Debug\Client.exe
+C:\su\CoreTechnologies\SocketsAndRemoting\code\WCF_Fawcett_Examples\WCF_MessagePassingComm\Client1\obj\Debug\Client.pdb
+C:\su\CoreTechnologies\SocketsAndRemoting\code\WCF_Fawcett_Examples\WCF_MessagePassingComm\Client1\bin\Debug\Client.exe
+C:\su\CoreTechnologies\SocketsAndRemoting\code\WCF_Fawcett_Examples\WCF_MessagePassingComm\Client1\bin\Debug\Client.pdb
+C:\su\CoreTechnologies\SocketsAndRemoting\code\WCF_Fawcett_Examples\WCF_MessagePassingComm\Client1\obj\Debug\ResolveAssemblyReference.cache
+D:\Syracuse\Fall 2016\SMA\Project # 3\WCF_CommPrototype\Client1\obj\Debug\Client.exe
+D:\Syracuse\Fall 2016\SMA\Project # 3\WCF_CommPrototype\Client1\obj\Debug\Client.pdb
+D:\Syracuse\Fall 2016\SMA\Project # 3\WCF_CommPrototype\Client1\bin\Debug\Client.exe
+D:\Syracuse\Fall 2016\SMA\Project # 3\WCF_CommPrototype\Client1\bin\Debug\Client.pdb
+D:\Syracuse\Fall 2016\SMA\Project # 3\WCF_CommPrototype\Client1\obj\Debug\Client1.csprojResolveAssemblyReference.cache
+F:\SMA resources\Project 3\WCF_CommPrototype\Client1\obj\Debug\Client.exe
+F:\SMA resources\Project 3\WCF_CommPrototype\Client1\obj\Debug\Client.pdb
+F:\SMA resources\Project 3\WCF_CommPrototype\Client1\bin\Debug\Client.exe
+F:\SMA resources\Project 3\WCF_CommPrototype\Client1\bin\Debug\Client.pdb
+F:\SMA resources\Project 3\WCF_CommPrototype\Client1\obj\Debug\Client1.csprojResolveAssemblyReference.cache
+F:\SMA resources\Savior\Project5\WCF_CommPrototype\Client1\obj\Debug\Client.exe
+F:\SMA resources\Savior\Project5\WCF_CommPrototype\Client1\obj\Debug\Client.pdb
