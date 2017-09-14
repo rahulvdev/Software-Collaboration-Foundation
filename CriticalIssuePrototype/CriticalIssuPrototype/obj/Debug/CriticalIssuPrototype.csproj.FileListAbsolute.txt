@@ -1,0 +1,6 @@
+F:\SMA resources\Savior\CriticalIssuPrototype\CriticalIssuPrototype\bin\Debug\CriticalIssuPrototype.exe.config
+F:\SMA resources\Savior\CriticalIssuPrototype\CriticalIssuPrototype\bin\Debug\CriticalIssuPrototype.exe
+F:\SMA resources\Savior\CriticalIssuPrototype\CriticalIssuPrototype\bin\Debug\CriticalIssuPrototype.pdb
+F:\SMA resources\Savior\CriticalIssuPrototype\CriticalIssuPrototype\obj\Debug\CriticalIssuPrototype.csprojResolveAssemblyReference.cache
+F:\SMA resources\Savior\CriticalIssuPrototype\CriticalIssuPrototype\obj\Debug\CriticalIssuPrototype.exe
+F:\SMA resources\Savior\CriticalIssuPrototype\CriticalIssuPrototype\obj\Debug\CriticalIssuPrototype.pdb
